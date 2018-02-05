@@ -1,0 +1,7 @@
+import "UUID.proto";
+
+message User {
+  required UUID id;
+  required string email;
+  optional string name;
+}

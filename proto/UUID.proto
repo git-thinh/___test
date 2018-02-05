@@ -1,0 +1,8 @@
+message UUID {
+  required string value = 1;
+}
+ 
+
+# message UUID {
+#  required bytes value = 1;
+# }
