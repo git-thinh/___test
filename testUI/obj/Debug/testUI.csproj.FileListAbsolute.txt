@@ -1,0 +1,9 @@
+E:\___test\bin\testUI.exe.config
+E:\___test\bin\testUI.exe
+E:\___test\bin\testUI.pdb
+E:\___test\testUI\obj\Debug\testUI.csprojResolveAssemblyReference.cache
+E:\___test\testUI\obj\Debug\testUI.Properties.Resources.resources
+E:\___test\testUI\obj\Debug\testUI.csproj.GenerateResource.Cache
+E:\___test\testUI\obj\Debug\testUI.exe
+E:\___test\testUI\obj\Debug\testUI.pdb
+E:\___test\testUI\obj\Debug\testUI.fMain.resources
